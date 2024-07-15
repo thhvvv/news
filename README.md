@@ -1,0 +1,2 @@
+Flask Blog Application
+This is a Flask-based web application structured with multiple directories for better modularity. The application includes features like user authentication, posting articles, and handling file uploads. It doesn't rely on external APIs, but instead, it uses a local SQLite database.This web application is deployed using Gunicorn.  Other dependencies installed include by bcrypt, click, wtforms, pillow etc.
